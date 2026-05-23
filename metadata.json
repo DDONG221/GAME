@@ -1,0 +1,6 @@
+{
+  "name": "Hacker vs AI: Word Defense",
+  "description": "실시간 P2P WebRTC 기술을 활용한 협동형 단어 디펜스 게임. 몰려오는 AI 보안 방화벽 단어들을 타이핑해 메인프레임을 수호하세요!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
